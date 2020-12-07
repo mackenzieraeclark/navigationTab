@@ -6,6 +6,10 @@
 - Node Version: 12(LTS)
 - Default Port: 8000
 
+## Live Demo:
+
+https://mackenzieraeclark.github.io/navigationTab/
+
 ## Application Demo:
 
 ![](https://hrcdn.net/s3_pub/istreet-assets/I6El9Mc6YIPHVyHHMA3VjQ/navigation-bar.gif)
