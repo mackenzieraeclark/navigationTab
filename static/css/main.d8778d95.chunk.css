@@ -1,0 +1,2 @@
+.card{transition:height .5s ease-in-out;will-change:height}.text{padding:10px;background-color:#fff}.links{padding:10px 0;background-color:#d3d3d3;cursor:pointer;height:1.5em}.links a{color:var(--heading-color);min-width:80px;min-height:44px;display:flex;flex-direction:row;align-items:center;justify-content:center}.links a:focus,.links a:hover{background-color:#eee}
+/*# sourceMappingURL=main.d8778d95.chunk.css.map */
